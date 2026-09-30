@@ -42,3 +42,7 @@ Managing shared expenses manually can lead to confusion about who paid, who owes
 - Multiple currency support
 - Receipt scanning
 - Mobile application
+  
+## LinkedIn Article
+
+[Read our project article on LinkedIn](https://www.linkedin.com/pulse/expense-sharing-app-simplifying-shared-expenses-among-murali-badiya-cv9sf/)
